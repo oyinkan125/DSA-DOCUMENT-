@@ -48,7 +48,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
    ### Data Analysis
    This is where we used MS Excel function for cleaning and also to create pivot table to summarize our table given to us
-   - MAX FUNCTION to get the hihgest average rating
+   - MAX FUNCTION to get the highest average rating
 
      ### Analysis
 
