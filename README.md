@@ -50,7 +50,47 @@ EDA involved the exploring of the Data to answer some questions about the Data s
    This is where we used MS Excel function for cleaning and also to create pivot table to summarize our table given to us
    - MAX FUNCTION to get the highest average rating
 
-     ### Analysis
+     
      
 
-https://github.com/oyinkan125/DSA-DOCUMENT-/tree/main
+
+
+## Project 2: Palmoria group HR Analysis
+The data analysis aims to generate an insight in Palmoria Group, a manufacturing company based in Nigeria, which is  embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards,
+revealing other issues like the gender pay gap, amongst other possible issues.
+
+
+Tools used:
+
+- Power Bi for analyzing and reporting[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- MS Power point for presentation.
+
+Data cleaning and Preparation 
+
+In the initial phase of data cleaning and preparation, we do the following action;
+ - Data loading and inspection.
+ - Handling missing variable.
+ - Data cleaning and formatting.
+
+Exploratory Data Analysis
+
+ EDA involved the exploring of the Data to answer some questions about the Data such as:
+- Analyse the company data and generate insights that the Palmoria management team would need to address.
+- 	Making our analysis should to be visualised using appropriate charts
+-  Our focus should be on gender-related issues within the organization and its region.
+
+ Requirements;
+ 
+-	Assigning a generic gender status for some employees who refused to disclose their gender.
+-	Identifying terminated employees and are without salary
+-   Identifying department which are “NULL”.
+
+
+### Analysis
+
+
+
+
+
+
+
